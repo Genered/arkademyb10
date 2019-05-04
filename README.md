@@ -14,3 +14,5 @@ Sebelum di tekan tombol Add Vote
 ![alt text](https://user-images.githubusercontent.com/8361552/57176394-ae8fb180-6e81-11e9-8762-a799fc5000ef.png)
 Setelah di tekan tombol Add Vote
 ![alt text](https://user-images.githubusercontent.com/8361552/57176395-ae8fb180-6e81-11e9-8d60-9e9d6ee207cd.png)
+
+Note: Karena database yang digunakan merupakan microsoft azure sql server, maka harus disetting firewallnya secara manual melalui portal azure. Kemungkinan besar gk bisa dijalanan secara lokal di pc reviewer nantinya. Namun tetap dapat diakses melalui website yang telah dicantumkan di atas.
