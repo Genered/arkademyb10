@@ -9,3 +9,8 @@ REST API memungkinkan klien untuk mengakses data pada server dengan mengirimkan 
 # Untuk nomor 6
   1. Dibuat menggunakan NodeJS, Express, Azure SQL Server
   2. Website dihosting menggunakan Microsoft Azure Web App (dapat diakses di https://daftartugaswebapp.azurewebsites.net/)
+
+Sebelum di tekan tombol Add Vote
+![alt text](https://user-images.githubusercontent.com/8361552/57176394-ae8fb180-6e81-11e9-8762-a799fc5000ef.png)
+Setelah di tekan tombol Add Vote
+![alt text](https://user-images.githubusercontent.com/8361552/57176395-ae8fb180-6e81-11e9-8d60-9e9d6ee207cd.png)
